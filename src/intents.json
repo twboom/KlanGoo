@@ -1,4 +1,5 @@
 {
-    "greetings": [],
-    "movies": []
+    "greetings": ["hello", "hi"],
+    "feelings": ["good", "bad", "hungry", "sad", "angry", "annoyed", "thirsty"],
+    "personalPronouns": ["i", "you", "me"]
 }
