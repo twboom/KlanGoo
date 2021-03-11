@@ -1,6 +1,0 @@
-{
-    "confused": ["I don't know what you mean", "I don't understand"],
-    "greetings": ["hello", "hi"],
-    "feelings": ["good", "bad", "hungry", "sad", "angry", "annoyed", "thirsty", "fine"],
-    "personalPronouns": ["i", "you", "me"]
-}

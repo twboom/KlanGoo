@@ -4,9 +4,9 @@ import os
 os.system('cls' if os.name == 'nt' else 'clear')
 
 def run():
-    question = input()
+    question = input('> ')
     answer = kg.ask(question)
-    print(answer)
+    print(str(answer))
     run()
 
 print('Hello!')

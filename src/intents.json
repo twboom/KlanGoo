@@ -1,5 +1,17 @@
 {
-    "greetings": ["hello", "hi"],
-    "feelings": ["good", "bad", "hungry", "sad", "angry", "annoyed", "thirsty"],
-    "personalPronouns": ["i", "you", "me"]
+    "feelings": {
+        "patterns": ["good", "bad", "hungry", "sad", "angry", "annoyed", "thirsty"],
+        "responses": []
+    },
+    "greetings": {
+        "patterns": ["hello", "hi"],
+        "responses": []
+    },
+    "goodbyes": {
+        "patterns": ["bye", "goodday"],
+        "responses": []
+    },
+    "self_confused": {
+        "responses": ["I don't know what you mean by that", "I don't understand", "I'm not well enough coded to understand this"]
+    }
 }
